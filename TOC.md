@@ -1,2 +1,2 @@
-# TOC
+# Table of Contents
 
